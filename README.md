@@ -12,7 +12,7 @@ http://nbviewer.ipython.org/github/ywchiu/pythonbasic/blob/master/Python_Introdu
 
 Python ETL:
 
- -- Slides:
+-- Slides:
 https://www.slideshare.net/secret/gU40WYKDHuWTEj
 
 -- Nbviewer:
@@ -21,3 +21,9 @@ http://nbviewer.ipython.org/github/ywchiu/pythonbasic/blob/master/Python_ETL_Dat
 http://nbviewer.ipython.org/github/ywchiu/pythonbasic/blob/master/Python_ETL_Data_Parsing.ipynb
 
 http://nbviewer.ipython.org/github/ywchiu/pythonbasic/blob/master/Python_ETL_Data_Storage_And_Analysis.ipynb
+
+
+
+Python for Data Analysis:
+-- Slides:
+https://www.slideshare.net/secret/lyE5sh0YrgZicD
