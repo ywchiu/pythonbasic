@@ -27,3 +27,8 @@ http://nbviewer.ipython.org/github/ywchiu/pythonbasic/blob/master/Python_ETL_Dat
 Python for Data Analysis:
 -- Slides:
 https://www.slideshare.net/secret/lyE5sh0YrgZicD
+
+-- Nbviewer:
+http://nbviewer.ipython.org/github/ywchiu/pythonbasic/blob/master/Pandas.ipynb
+
+
