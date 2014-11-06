@@ -31,4 +31,13 @@ https://www.slideshare.net/secret/lyE5sh0YrgZicD
 -- Nbviewer:
 http://nbviewer.ipython.org/github/ywchiu/pythonbasic/blob/master/Pandas.ipynb
 
+Python for Data Analysis2:
+
+-- Slides:
+https://www.slideshare.net/secret/qLgwYf3vx1K4ef
+
+-- Nbviewer:
+http://nbviewer.ipython.org/github/ywchiu/pythonbasic/blob/master/Datascience2/data_analysis_scikitlearn.ipynb
+
+
 
